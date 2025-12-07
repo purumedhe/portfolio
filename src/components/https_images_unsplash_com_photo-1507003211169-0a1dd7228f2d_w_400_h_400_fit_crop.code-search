@@ -1,0 +1,9 @@
+# Query: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop
+# ContextLines: 1
+
+1 result - 1 file
+
+src\components\Hero.tsx:
+  116                <img
+  117:                 src="/images/profile.jpg"
+  118                  alt="Professional profile"
